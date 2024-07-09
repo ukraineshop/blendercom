@@ -589,15 +589,15 @@ section.blue_theme {
 }
 
 .benefits_list .benefit_item:nth-child(1):before {
-	background-image: url("../img/offer3__benefit1_icon.png");
+	background-image: url(	https://lehmann.toolrealm.site/img/offer3__benefit1_icon.png);
 }
 
 .benefits_list .benefit_item:nth-child(2):before {
-	background-image: url("../img/offer3__benefit2_icon.png");
+	background-image: url(	https://lehmann.toolrealm.site/img/offer3__benefit2_icon.png);
 }
 
 .benefits_list .benefit_item:nth-child(3):before {
-	background-image: url("../img/offer3__benefit3_icon.png");
+	background-image: url(	https://lehmann.toolrealm.site/img/offer3__benefit3_icon.png);
 }
 
 .products_count {
